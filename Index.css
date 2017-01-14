@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.header{
+    position: fixed;
+    float: left;
+    height: 12%;
+    width: 20%;
+    margin-left: 2%;
+    font-family: 'Dosis', sans-serif;
+    color: crimson;
+    background-color: white;
+    font-style: normal;
+    z-index: 1;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 10%%;
+    margin-right: 5%;
+}
+
+.title{
+    position: fixed;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.9em;
+    line-height: 1.2em;
+ 
+}
+
+.subtitle{
+    position: fixed;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.3em;
+    line-height: 1.6em;
+    margin-top: 3%;
+}
+
+
+
+div.projects{
+    position: fixed;
+    float: left;
+    height: 86%;
+    width: 100%;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3em;
+    font-style: italic;
+    color: #a0a09b;
+    margin-left: 2%;
+    margin-top: 7%;
+    margin-bottom: 4%;
+    margin-right: 5%;
+    line-height: 2.2em;
+    overflow: scroll;
+}
+
+
+    
+a{
+    text-decoration: none;
+    color: #a0a09b;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #a0a09b;
+}
+
+.in{
+    padding-top: 1.8%;
+}
+
+.in a:hover{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+    
+}
+
+.in a:hover:after {
+    content: url(spread2hover.png); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.sub a:hover{
+    text-decoration: none;
+    color: springgreen;
+    font-weight: bold;
+}
+
+.sub a:hover:after {
+    content: url(done%20hover.jpg); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.Lizzie1 a:hover{
+    text-decoration: none;
+    color: fuchsia;
+    font-weight: bold;
+}
+
+.Lizzie1 a:hover:after {
+    content: url(Lizzie%203%20hover.jpg); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.Lizzie2 a:hover{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.Lizzie2 a:hover:after {
+    content: url(Danke%20Lizzie%20hover%20real.png); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.abc a:hover{
+    text-decoration: none;
+    color: springgreen;
+    font-weight: bold;
+}
+
+.abc a:hover:after {
+    content: url(NO%20spread%20hover.png);
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.miss a:hover{
+    text-decoration: none;
+    color: fuchsia;
+    font-weight: bold;
+}
+
+.miss a:hover:after {
+    content: url(lightbox1%20hover.jpg); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.closet a:hover{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.closet a:hover:after {
+    content: url(clothes%20hover.jpg); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.navigate a:hover{
+    text-decoration: none;
+    color: springgreen;
+    font-weight: bold;
+}
+
+.navigate a:hover:after {
+    content: url(folded%20map%20hover.jpg); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.farmfeed a:hover{
+    text-decoration: none;
+    color: fuchsia;
+    font-weight: bold;
+}
+
+.farmfeed a:hover:after {
+    content: url(Farmfeed%20hover.png); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.poems a:hover{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.poems a:hover:after {
+    content: url(On-Pennies-and-Men-hover.gif); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.specspace a:hover{
+    text-decoration: none;
+    color: springgreen;
+    font-weight: bold;
+}
+
+.specspace a:hover:after {
+    content: url(Page3%20hover.jpg); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.soe a:hover{
+    text-decoration: none;
+    color: fuchsia;
+    font-weight: bold;
+}
+
+.soe a:hover:after {
+    content: url(VCUinvitehover.jpg); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.soe2 a:hover{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.soe2 a:hover:after {
+    content: url(Infographicshover-08.png); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.usca a:hover{
+    text-decoration: none;
+    color: springgreen;
+    font-weight: bold;
+}
+
+.usca a:hover:after {
+    content: url(ad1%20hover.jpg); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.contact a:hover{
+    text-decoration: none;
+    color: fuchsia;
+    font-weight: bold;
+}
+
+.contact a:hover:after {
+    content: url(Contact%20graphic.png); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+.about a:hover{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.about a:hover:after {
+    content: url(me%20copy.png); /* no need for qoutes */
+    display: inline;
+    position: fixed;
+    left: 29%;
+    top: 7%;
+}
+
+ul{
+    list-style-type: none;
+}
