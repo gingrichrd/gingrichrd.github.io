@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://rachelgingrich.com/index.html</loc>
-    <lastmod>2017-07-27</lastmod>
+    <lastmod>2017-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -723,22 +723,235 @@
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_final%20experience%204_01363x255_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%201%20edit405x336.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%201%20edit405x336_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%203%20edit405x337.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%203%20edit405x337_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%206%20edit405x331.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%206%20edit405x331_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%207%20edit405x331.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%207%20edit405x331_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_02401x339.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_02401x339_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_03405x334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_03405x334_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_04403x344.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_04403x344_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_05403x343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_05403x343_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_01405x275.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_01405x275_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_02405x275.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_02405x275_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_03405x275.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_03405x275_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_04405x274.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_04405x274_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_02404x423.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_02404x423_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_04404x411.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_04404x411_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_05404x411.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_05404x411_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_03401x410.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_03401x410_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_abc%20book%204_02404x310.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_abc%20book%204_02404x310_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_abc%20book%204_03405x310.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/no%20spread405x311.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/no%20spread405x311_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/rs%20spread404x310.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/rs%20spread404x310_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-28%20at%2053626%20pm403x273.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-28%20at%2053626%20pm403x273_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115438%20am403x274.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115438%20am403x274_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115646%20am403x270.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115646%20am403x270_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-28%20at%2053513%20pm403x269.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-28%20at%2053513%20pm403x269_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102245%20am406x228.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102245%20am406x228_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102629%20am409x227.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102629%20am409x227_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20103457%20am405x231.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20103457%20am405x231_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102750%20am408x229.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102750%20am408x229_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_farmfeed%20app%20book%202_03406x283.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_farmfeed%20app%20book%202_03406x283_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_farmfeed%20app%20book%202_02403x283.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_farmfeed%20app%20book%202_02403x283_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_01405x313.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_01405x313_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_02405x304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_02405x304_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_03405x540.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_03405x540_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_04404x539.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_04404x539_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_final%20experience%204_02405x563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_final%20experience%204_02405x563_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_final%20experience%204_01404x285.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_final%20experience%204_01404x285_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%201%20edit338x280.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%201%20edit338x280_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%203%20edit338x281.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%203%20edit338x281_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%206%20edit338x276.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%206%20edit338x276_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%203%20edit338x281.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%203%20edit338x281_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/on%20the%20internet%20spread%207%20edit338x276.jpg</image:loc>
@@ -753,16 +966,16 @@
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_02334x283_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_03338x279.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_03338x279_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_04336x287.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_04336x287_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_03338x279.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_03338x279_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_sister%20publications%202_05336x286.jpg</image:loc>
@@ -777,16 +990,16 @@
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_01338x229_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_02337x229.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_02337x229_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_03338x229.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_03338x229_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_02337x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_02337x229_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_wayfinding%20manual%202_04338x228.jpg</image:loc>
@@ -801,16 +1014,16 @@
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_02337x353_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_04337x343.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_04337x343_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_05337x342.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_05337x342_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_04337x343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_04337x343_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_binary%20book%202_03334x342.jpg</image:loc>
@@ -825,13 +1038,13 @@
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_abc%20book%204_02337x259_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_abc%20book%204_03338x259.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://rachelgingrich.com/images/no%20spread338x259.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/no%20spread338x259_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_abc%20book%204_03338x259.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/rs%20spread337x259.png</image:loc>
@@ -846,16 +1059,16 @@
       <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-28%20at%2053626%20pm336x228_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115438%20am336x228.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115438%20am336x228_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115646%20am336x225.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115646%20am336x225_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115438%20am336x228.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-03-22%20at%20115438%20am336x228_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-28%20at%2053513%20pm336x224.png</image:loc>
@@ -870,16 +1083,16 @@
       <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102245%20am338x190_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102629%20am341x189.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102629%20am341x189_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20103457%20am338x193.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20103457%20am338x193_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102629%20am341x189.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102629%20am341x189_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/screen%20shot%202017-05-29%20at%20102750%20am340x191.png</image:loc>
@@ -906,16 +1119,16 @@
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_01338x261_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_02338x253.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_02338x253_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_03338x450.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_03338x450_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_02338x253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_02338x253_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_language%202_04337x449.jpg</image:loc>
@@ -936,7 +1149,7 @@
       <image:loc>http://rachelgingrich.com/images/gingrichrachel_final%20experience%204_01337x237_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://rachelgingrich.com/images/me%20copy396x263.png</image:loc>
+      <image:loc>http://rachelgingrich.com/images/me%20copy335x223.png</image:loc>
     </image:image>
   </url>
 </urlset>
