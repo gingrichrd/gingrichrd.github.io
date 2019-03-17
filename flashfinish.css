@@ -10,6 +10,7 @@ div.header{
     width: 100%;
     font-family: 'Lato', sans-serif;
     color: black;
+    background-color: white;
     font-style: normal;
     z-index: 1;
 }
@@ -56,7 +57,7 @@ a:hover{
     height: 100%;
     padding-top: 1%;
     text-align: center;
-    overflow: scroll;
+
     margin: 0 auto;
     
 }
@@ -73,8 +74,7 @@ li {
     display: inline-block;
     font-family: 'Lato', sans-serif;
     font-size: 1.9em;
-    overflow:scroll;
-    padding: 3%;
+
 }
 
 
